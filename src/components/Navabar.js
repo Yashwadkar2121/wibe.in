@@ -18,7 +18,7 @@ function Navabar() {
               <b>Wibe</b>
             </h2>
           </a>
-          <div className="d-flex" role="search">
+          <div className="d-flex">
             <h3>
               {" "}
               <Offcavaes />

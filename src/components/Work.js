@@ -3,7 +3,7 @@ import React from "react";
 function Work() {
   return (
     <>
-      <div className="bg-black">
+      <div className="text-bg-black">
         <div className="card" style={{ width: "18rem" }}>
           <img src="..." className="card-img-top" alt="..." />
           <div className="card-body">
